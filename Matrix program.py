@@ -1,7 +1,7 @@
 #Ismael Garrido
 #MatrixProgram.py
-#Homework13
-#Prof.Natalia Novak
+#Homework13 CS132
+
 
 def greetings():
     print('This program tries to open two file with the names provided by the user,\n',
